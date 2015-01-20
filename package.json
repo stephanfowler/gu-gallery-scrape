@@ -1,0 +1,12 @@
+{
+  "name"         : "gallery-snap",
+  "version"      : "0.0.1",
+  "description"  : "Gallery snap",
+  "main"         : "server.js",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "hogan.js"   : "latest"
+  }
+}
